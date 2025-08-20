@@ -1,0 +1,16 @@
+:root {
+}
+
+#CountTextLabel {
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+#YouWinLabel {
+    -unity-text-align: upper-center;
+}
+
+#YouLoseLabel {
+    flex-grow: 1;
+    -unity-text-align: middle-center;
+}
